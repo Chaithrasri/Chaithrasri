@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chaithrasri
 - 👀 I’m interested in Exploring things which are tech related
 - 🌱 I’m currently learning a python fullstack course 
-- 💞️ I’m looking to collaborate on mamy tech clubs
+- 💞️ I’m looking to collaborate on many tech clubs
 - 📫 You can reach me through LINKEDIN 
 - 😄 Pronouns:Chaithra
 - ⚡ Fun fact: ... Baa bye..😁😉
